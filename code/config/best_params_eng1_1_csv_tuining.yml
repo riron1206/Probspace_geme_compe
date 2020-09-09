@@ -1,0 +1,12 @@
+best_params:
+  boosting_type: 'gbdt'
+  subsample: 0.7
+  subsample_freq: 1
+  colsample_bytree: 0.8
+  max_depth: 5
+  min_child_samples: 5121
+  min_child_weight: 31.41011623517294
+  num_leaves: 18
+  reg_alpha: 3.275388975007184e-08
+  reg_lambda: 0.001083814848765543
+  random_state: 71

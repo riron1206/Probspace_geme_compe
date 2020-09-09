@@ -1,0 +1,10 @@
+best_params:
+  subsample: 0.9
+  subsample_freq: 3
+  colsample_bytree: 0.1
+  max_depth: 7
+  min_child_samples: 868
+  min_child_weight: 0.09140460534242123
+  num_leaves: 95
+  reg_alpha: 3.872130445450876e-09
+  reg_lambda: 2.6206982603827704
