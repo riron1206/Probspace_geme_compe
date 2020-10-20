@@ -1,0 +1,4 @@
+catboost_submission.csv: 0.556810
+lightgbm_submission.csv: 0.555540
+stacker_submission.csv: 0.550318
+gbc_submission.csv: 0.543402

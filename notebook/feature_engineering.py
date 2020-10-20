@@ -1019,6 +1019,17 @@ df_all.to_csv(f"{OUT_DATA}/eng3.csv")
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 # # 特徴量選択
 
 # +
@@ -1297,8 +1308,6 @@ if __name__ == '__main__':
     pd.DataFrame({"not_feature_selections": not_feature_selections}).to_csv(f"{OUT_DATA}/not_feature_selection_cols.csv", index=False)
     print(df_all.shape)
 # -
-
-
 dic = {"a": 122}
 "b" in dic
 
